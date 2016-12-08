@@ -1,1 +1,4 @@
-un fisier
+un fisier de acasa
+==
+1. de pe web, birou
+==
