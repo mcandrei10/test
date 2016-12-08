@@ -2,3 +2,5 @@ un fisier de acasa
 ==
 1. de pe web, birou
 ==
+2. de pe web, birou
+==
